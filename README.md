@@ -1,2 +1,2 @@
-# Thuc-Tap
-Thực tập -  báo cáo
+# Thực tập HUTECH   
+Thực tập -  báo cáo nộp cho khoa CNTT - HUTECH
